@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#161625</color>
+    <color name="colorPrimary">#5390DA</color>
+    <color name="colorAccent">#A3A3AE</color>
+    <color name="gradient_start">#6add86</color>
+    <color name="gradient_end">#12c1bd</color>
+    <color name="text_color">#A3A3AE</color>
+    <color name="peachy">#e43f5a</color>
+    <color name="background_table">#161625</color>
+    <color name="cell_background">#1e1e30</color>
+    <color name="tab_background">#161625</color>
+    <color name="active">#F44336</color>
+    <color name="confirmed">#007bff</color>
+    <color name="recovered">#4CAF50</color>
+    <color name="deaths">#A3A3AE</color>
+    <color name="graph_background"> #1e1e30</color>
+</resources>

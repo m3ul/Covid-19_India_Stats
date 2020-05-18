@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="table_text_size">15dp</dimen>
+    <dimen name="state_name_size">18dp</dimen>
+    <dimen name="cell_padding_vertical">15dp</dimen>
+    <dimen name="cell_padding_horizontal">4dp</dimen>
+    <dimen name="cell_margin">1.5dp</dimen>
+    <dimen name="card_margin">4dp</dimen>
+    <dimen name="corner_radius">10dp</dimen>
+    <dimen name="divide_margin_vertical">20dp</dimen>
+    <dimen name="divide_width">2dp</dimen>
+    <dimen name="page_padding">0dp</dimen>
+    <dimen name="chart_margins">5dp</dimen>
+    <dimen name="card_margin2">15dp</dimen>
+    <dimen name="card_elevation">0dp</dimen>
+</resources>
